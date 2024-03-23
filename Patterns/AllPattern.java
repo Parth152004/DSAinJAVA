@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class AllPattern {
 
     public static void printstarpattern(int n){
