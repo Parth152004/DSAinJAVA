@@ -58,9 +58,9 @@ public class Assigment1 {
         int nums[] = {4,5,6,7,0,1,2};
         int price[] = {7,6,4,3,1};
         int height[] = {4,2,0,3,2,5};
-        // System.err.println(isRepite(nums));
-        // System.err.println(ispresent(nums,0));
-        // System.out.println(maxprofit(price));
+        System.err.println(isRepite(nums));
+        System.err.println(ispresent(nums,0));
+        System.out.println(maxprofit(price));
         System.out.println(calrainheight(height));
     }
 }
